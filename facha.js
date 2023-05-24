@@ -1,1 +1,1 @@
-Math.floor(Math.random() * 32
+Math.floor(Math.random() * 32)
